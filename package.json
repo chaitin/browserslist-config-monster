@@ -1,0 +1,17 @@
+{
+  "name": "@chaitin/browserslist-config-monster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "WTFPL",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitin/browserslist-config-monster"
+  }
+}
