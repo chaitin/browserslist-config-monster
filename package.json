@@ -10,8 +10,14 @@
     "registry": "https://registry.npmjs.org",
     "access": "public"
   },
+  "scripts": {
+    "verify": "node verify.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chaitin/browserslist-config-monster"
+  },
+  "devDependencies": {
+    "browserslist": "^3.2.4"
   }
 }
